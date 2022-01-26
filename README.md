@@ -1,3 +1,11 @@
+## Notes:
+Using a Github Pages Site that allows use of static code files (JS, HTML, CSS) but not dynamic languages
+Survey JS creater will be used to create user surveys. WIll add survey to repo
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jwaxman11/tulaneservicematch/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
