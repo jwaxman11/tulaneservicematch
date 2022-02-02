@@ -16,6 +16,7 @@ Design algorithm (k-nearest neighbor, vectors)
 Print results
 
 Additional:
+Custom domain
 Seperate pages on the site (contact, more info, etc)
 Design (pics, themes, etc)
 Login page
