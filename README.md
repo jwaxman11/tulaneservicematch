@@ -9,6 +9,7 @@ need database of events and ideal answers to survey questions with corresponding
 
 #Next steps
 MVP:
+Finish survey (team work)
 Save survey responses into a table row
 create database of events and ideal survey answers with weights (get more orgs on board)
 Design algorithm (k-nearest neighbor, vectors)
