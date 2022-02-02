@@ -16,10 +16,14 @@ var surveyJSON = {
 
 const survey = new Survey.Model(surveyJson);
 
+function alertResults (sender) {
+    const results = JSON.stringify(sender.data);
+    alert(results);
+}
+
+survey.onComplete.add(alertResults);
 
 
-var survey = new Survey.Model(surveyJSON);
-$("#surveyContainer").Survey({
-    model: survey,
-    onComplete: sendDataToServer
+$(function() {
+    $("#surveyContainer").Survey({ model: survey });
 });
