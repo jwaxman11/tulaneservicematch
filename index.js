@@ -26,4 +26,5 @@ survey.onComplete.add(alertResults);
 
 $(function() {
     $("#surveyContainer").Survey({ model: survey });
+   print("SUrvey?");
 });
