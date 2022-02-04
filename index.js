@@ -20,6 +20,13 @@ function sendDataToServer(survey) {
     alert("The results are:" + JSON.stringify(survey.data));
 }
 
+//given CPS data, make a dataframe of the volunteering orgs and ideal answers 
+function dataframe() {
+	
+}
+
+
+
 survey.onComplete.add(alertResults);
 
 $(function() {

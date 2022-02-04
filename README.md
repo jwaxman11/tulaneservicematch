@@ -2,6 +2,9 @@
 Using a Github Pages Site that allows use of static code files (JS, HTML, CSS) but not dynamic languages
 Survey JS creater will be used to create user surveys. WIll add survey to repo
 
+
+Emphasis impact of our project
+
 #Add question do you prefer to work with a team or indivisually  
 
 # Get choices to show up in a database 
@@ -9,7 +12,8 @@ need database of events and ideal answers to survey questions with corresponding
 
 #Next steps
 MVP:
-Finish survey (team work)
+Meeting with CPS (use of database)
+Finish survey (team work, which days are you free)
 Save survey responses into a table row
 create database of events and ideal survey answers with weights (get more orgs on board)
 Design algorithm (k-nearest neighbor, vectors)
@@ -17,8 +21,9 @@ Print results
 
 Additional:
 Custom domain
-Seperate pages on the site (contact, more info, etc)
+Seperate pages on the site (contact, organizations more info, etc)
 Design (pics, themes, etc)
+Brief summary of org suggested and ways to contact
 Login page
 
 
