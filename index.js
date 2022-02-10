@@ -21,7 +21,7 @@ function sendDataToServer(survey) {
 
 //given CPS data, make a dataframe of the volunteering orgs and ideal answers 
 function dataframe() {
-	
+	document.write("Results");
 }
 
 
@@ -31,6 +31,6 @@ survey.onComplete.add(alertResults);
 $(function() {
     $("#surveyContainer").Survey({ 
 			model: survey,
-			onComplete: sendDataToServer 
+			onComplete: sendDataToServer, dataframe
 			})
 });
